@@ -168,6 +168,11 @@ button:hover {
         border-top-right-radius: 10px;
         border-bottom-left-radius: 0;
     }
+        button {
+            height: 4rem;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
 
     .info {
         width: 100%;
